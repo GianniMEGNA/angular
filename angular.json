@@ -7,7 +7,7 @@
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
-          "style": "scss"
+          "style": "scss"c
         }
       },
       "root": "",
@@ -28,9 +28,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-            "./node_modules/bootstrap/dist/css/bootstrap.min.css"
-            ],
+   "src/styles.css",
+   "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+ ], 
             "scripts": []
           },
           "configurations": {
@@ -94,9 +94,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-            "./node_modules/bootstrap/dist/css/bootstrap.min.css"
-            ],
+   "src/styles.css",
+   "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+ ],
             "scripts": []
           }
         },
@@ -129,3 +129,4 @@
     }},
   "defaultProject": "angular"
 }
+
